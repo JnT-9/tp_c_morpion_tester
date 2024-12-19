@@ -1,6 +1,7 @@
 # Projet de Tests du Morpion
 
 ## Description
+
 Ce projet contient les tests unitaires pour le jeu de Morpion. Il utilise xUnit comme framework de test et FluentAssertions pour des assertions plus lisibles.
 
 ## Structure des Tests
@@ -51,4 +52,4 @@ Ce projet contient les tests unitaires pour le jeu de Morpion. Il utilise xUnit 
 - Tests isolés et indépendants
 - Utilisation de TestDisplay pour simuler l'interface
 - Vérification des états et comportements
-- Tests lisibles et maintenables 
+- Tests lisibles et maintenables
