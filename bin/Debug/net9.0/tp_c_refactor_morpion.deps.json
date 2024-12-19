@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "tp_c_refactor_morpion/1.0.0": {
+        "runtime": {
+          "tp_c_refactor_morpion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tp_c_refactor_morpion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

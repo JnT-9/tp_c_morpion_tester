@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tp_c_morpion_tester")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bce9e0fb1532fd53a3cdd14891f0e09c11ac7c46")]
 [assembly: System.Reflection.AssemblyProductAttribute("tp_c_morpion_tester")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tp_c_morpion_tester")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
